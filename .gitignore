@@ -1,0 +1,13 @@
+log/*.log
+tmp/*
+tmp/**/*
+doc/api
+doc/app
+db/*.sqlite3
+*.swp
+.DS_Store
+../
+.redcar
+rails_best_practices_output.html
+public/images/uploads
+db/schema.rb
